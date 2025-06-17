@@ -44,7 +44,10 @@ B.Com graduate with a passion for data-driven decision making. Currently develop
 - **Key Insight:** Identified 3 products contributing 42% of total revenue
 - **Tools:** Excel (PivotTables, Power Query, Conditional Formatting)
 
-[→ View Project Screenshot](#) | [→ Access Dataset](#)
+### 📊 1. Sales Performance Analysis — *Excel Project*
+
+🔗 [Download Project File](Sales_Analysis.xlsx)
+
 
 ---
 
