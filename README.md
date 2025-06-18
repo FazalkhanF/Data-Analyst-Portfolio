@@ -1,75 +1,83 @@
-# Fazal Khan | Aspiring Data Analyst
+# 💼 Fazal Khan | Aspiring Data Analyst
 
-🔍 Transforming complex data into actionable business insights  
-📊 Excel | Python | Data Visualization | Analytics
-
----
-
-## 🚀 Professional Summary
-
-B.Com graduate with a passion for data-driven decision making. Currently developing expertise in data analysis, visualization, and storytelling. Seeking opportunities to apply analytical skills in real-world business contexts.
-
-**Core Competencies:**  
-✅ Data Cleaning & Validation  
-✅ Exploratory Data Analysis (EDA)  
-✅ Business Intelligence Reporting  
-✅ Financial Data Interpretation  
-✅ Insight Communication
+Welcome to my personal Data Analytics portfolio!  
+I’m building my skills to solve real-world business problems using data analysis, visualization, and storytelling.  
+Here, you’ll find my practical projects, experiments, and learnings as I grow in this exciting field.
 
 ---
 
-## 🧩 Technical Skills
-
-| **Category**       | **Tools & Technologies**                     | **Proficiency**       |
-|--------------------|---------------------------------------------|-----------------------|
-| **Data Analysis**  | Excel, Google Sheets, Pandas                | ⭐⭐⭐⭐☆               |
-| **Visualization**  | Matplotlib, Seaborn, Excel Charts           | ⭐⭐⭐☆☆               |
-| **Programming**    | Python (Pandas, NumPy)                      | ⭐⭐☆☆☆               |
-| **Databases**      | SQL (Learning)                              | ⭐☆☆☆☆               |
-| **Business Tools** | Tally ERP, Financial Modeling               | ⭐⭐⭐⭐☆               |
+## 🚀 About Me
+🎓 **B.Com Graduate** with a strong interest in numbers, patterns, and insights.  
+🔍 Self-learning **Excel, Google Sheets, Python (Pandas, Matplotlib)** and Data Storytelling.  
+🎯 Actively working on improving analytical thinking, problem-solving, and communication.
 
 ---
 
-## 📂 Portfolio Projects
+## 🗂️ My Data Projects
 
-### 💼 1. Sales Performance Analysis | Excel
-*Comprehensive sales analytics dashboard for retail business*
+### 📊 1. **Sales Performance Analysis** — *Excel Project*  
+A complete analysis of a company’s sales dataset to extract key insights.
 
-- **Objective:** Identify top-performing products and sales trends
-- **Methodology:**
-  - Cleaned dataset with 10K+ records
-  - Created dynamic pivot tables
-  - Developed product performance scorecards
-  - Visualized regional sales distribution
-- **Key Insight:** Identified 3 products contributing 42% of total revenue
-- **Tools:** Excel (PivotTables, Power Query, Conditional Formatting)
+- **Key Skills:** Data Cleaning, Data Validation, Pivot Tables, Charts
+- **Tools Used:** Microsoft Excel
+- **What I Did:**  
+  ✔️ Removed duplicates, errors  
+  ✔️ Calculated total & average sales  
+  ✔️ Visualized product-wise performance using Bar & Pie Charts  
+- **Outcome:** Identified top 3 best-selling products.
 
-### 📊 1. Sales Performance Analysis — *Excel Project*
-
-🔗 [Download Project File](Sales_Analysis.xlsx)
-
+🔗 *Project File:* _Coming Soon_
 
 ---
 
-### ⚓ 2. Titanic Survival Analysis | Python
-*Exploratory analysis of passenger survival patterns*
+### 🛳️ 2. **Titanic Survival Prediction** — *Python Project*  
+Explored the famous Titanic dataset to find patterns related to passenger survival.
 
-- **Objective:** Identify factors influencing survival rates
-- **Methodology:**
-  - Performed missing data imputation
-  - Analyzed survival correlation with demographics
-  - Created comparative visualizations
-  - Developed predictive model (logistic regression)
-- **Key Insight:** Women in 1st class had 92% survival rate vs 15% for men in 3rd class
-- **Tools:** Python (Pandas, Matplotlib, Scikit-learn)
+- **Key Skills:** Data Cleaning, EDA, Visualization
+- **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
+- **What I Did:**  
+  ✔️ Analyzed survival rate based on gender & class  
+  ✔️ Plotted survival distribution graphs  
+  ✔️ Shared meaningful conclusions
+- **Outcome:** Found that women and upper-class passengers had a higher survival chance.
 
-```python
-# Sample code snippet
-import pandas as pd
-import matplotlib.pyplot as plt
+🔗 *Project Notebook:* _Coming Soon_
 
-titanic = pd.read_csv('titanic.csv')
-survival_by_class = titanic.groupby('Pclass')['Survived'].mean()
-survival_by_class.plot(kind='bar', color='#2563eb')
-plt.title('Survival Rate by Passenger Class')
-plt.ylabel('Survival Rate');
+---
+
+### 💰 3. **Personal Expense Tracker** — *Google Sheets Project*  
+A fully functional monthly personal finance tracker.
+
+- **Key Skills:** Formula Writing, Conditional Formatting, Charts
+- **Tools Used:** Google Sheets
+- **What I Did:**  
+  ✔️ Automated monthly income & expense calculation  
+  ✔️ Created a dynamic savings graph  
+  ✔️ Built category-wise expense summary
+- **Outcome:** Ready-to-use budget planner for daily use.
+
+🔗 *Project Link:* _Coming Soon_
+
+---
+
+## 🧩 Learning & Skill Progress
+
+| Skill               | Progress        |
+|--------------------|----------------|
+| Excel Data Analysis | ⭐⭐⭐⭐☆ (80%)    |
+| Google Sheets       | ⭐⭐⭐☆☆ (60%)    |
+| Python (Pandas)     | ⭐⭐☆☆☆ (40%)    |
+| Data Visualization  | ⭐⭐☆☆☆ (40%)    |
+| Communication       | ⭐⭐⭐⭐☆ (80%)    |
+
+---
+
+## 📬 Let’s Connect!
+
+- 🔗 linkedin.com/in/fazal-khan-f-ab25b0311/ 
+- 📧 Email: fk442787@gmail.com
+
+---
+
+*“Data is the new oil. Let’s refine it into insight.”*
+
